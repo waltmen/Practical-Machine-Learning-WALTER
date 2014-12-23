@@ -6,6 +6,8 @@ Repo for a Coursera Assignment
 PRACTICAL MACHINE LEARNING – Project Writeup
 Student:  James Walter
 
+NB: I am new to R and so could not master the R Markdown tool in time to submit this assignment.  Hence, all my methodology and results are here.
+
 To complete this assignment I completed the following steps:
 Data Exploration
 •	I used excel, which I am the most familiar, to explore structure and nature of the data
